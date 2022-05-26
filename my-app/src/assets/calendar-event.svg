@@ -1,0 +1,8 @@
+<svg id="calendar-event" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <path id="Path_404" data-name="Path 404" d="M0,0H40V40H0Z" fill="none"/>
+  <rect id="Rectangle_132" data-name="Rectangle 132" width="26.856" height="26" rx="2" transform="translate(7 8.856)" fill="none" stroke="#afc2f2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <line id="Line_21" data-name="Line 21" y2="7" transform="translate(26.568 5)" fill="none" stroke="#afc2f2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <line id="Line_22" data-name="Line 22" y2="7" transform="translate(13.284 5)" fill="none" stroke="#afc2f2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <line id="Line_23" data-name="Line 23" x2="26.856" transform="translate(7 17.372)" fill="none" stroke="#afc2f2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <rect id="Rectangle_133" data-name="Rectangle 133" width="4" height="4" transform="translate(13.317 24.584)" fill="none" stroke="#afc2f2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+</svg>
